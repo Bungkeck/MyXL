@@ -51,7 +51,5 @@ My XL Lite merupakan tool sederhana yang berguna untuk melihat informasi kuota X
 	myxllite unipk
 	```
 
-## Credits
-- [Rizki Ramadhan](https://github.com/rizpedia) as creator of this software.
-- [ardcsx](https://github.com/ardcsx) thanks for API.
-- [Helmi Amirudin](https://helmiau.com) as installer and uninstaller script and IPK compiler.
+
+  
